@@ -1,0 +1,49 @@
+@media (min-width : 1399px) {
+    .right-pic{
+        width: 700px;
+       
+    }
+    
+    .left-pic{
+        width: 700px;
+        
+     }
+    
+ }
+
+ @media (max-width : 1400px ){
+    .right-pic{
+        width: 700px;
+    }
+    
+    .left-pic{
+        width: 700px;
+     }
+ }
+
+ @media (min-width : 1301px ){
+    .right-pic{
+        width: calc(47% - 0px);
+    }
+    
+    .left-pic{
+        width: calc(47% - 0px);
+     }
+ }
+
+ @media (max-width : 1300px){
+    .two-pic{
+        display: block;
+        margin: auto;
+    }
+    .right-pic{
+        width: 710px;
+        margin: auto;
+    }
+    
+    .left-pic{
+        width: 710px;
+        margin: auto;
+     }
+
+ }
