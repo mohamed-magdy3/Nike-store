@@ -1,4 +1,4 @@
-# Amazon clone
+# Nike-store
 ### [Live site](https://mohamed-magdy3.github.io/Nike-store/)
 
-![Amazon clone](./NIKE.PNG)
+![Nike-store](./NIKE.PNG)
